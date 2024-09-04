@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f8e6f4b-54da-4e14-ac8f-6ba1ea0448f8" name="Changes" comment="" />
+    <list default="true" id="9f8e6f4b-54da-4e14-ac8f-6ba1ea0448f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bandeira.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bandeira.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/dispositivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/tipo_consumidor.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/tipo_consumidor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/tipo_dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/tipo_dispositivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/unidade_consumidora.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/unidade_consumidora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/bandeira.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/bandeira.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/dependencias.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/dependencias.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/dispositivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/dispositivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/tipo_consumidor.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/tipo_consumidor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/tipo_dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/tipo_dispositivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/unidade_consumidora.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/unidade_consumidora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/bandeira.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/bandeira.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/tipo_consumidor.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/tipo_consumidor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/tipo_dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/tipo_dispositivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/unidade_consumidora.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/unidade_consumidora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_main.http" beforeDir="false" afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,12 +35,16 @@
       <list>
         <option value="FastAPI main" />
         <option value="FastAPI test_main" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kyhdLehVSp9LeLs9j55mIkt3AA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,11 +53,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "FastAPI.calculadoraConsumoEletrico.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/46297589844/PycharmProjects/calculadoraConsumoEletrico/schemas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\46297589844\PycharmProjects\calculadoraConsumoEletrico\schemas" />
+      <recent name="C:\Users\46297589844\PycharmProjects\calculadoraConsumoEletrico\routers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\46297589844\PycharmProjects\calculadoraConsumoEletrico" />
+      <recent name="C:\Users\46297589844\PycharmProjects\calculadoraConsumoEletrico\schemas" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="calculadoraConsumoEletrico" type="Python.FastAPI">
       <option name="file" value="$PROJECT_DIR$/main.py" />
@@ -64,8 +108,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724261811114</updated>
-      <workItem from="1724261845281" duration="6000" />
+      <workItem from="1724261845281" duration="3552000" />
+      <workItem from="1724857686865" duration="6170000" />
+      <workItem from="1724868761059" duration="1699000" />
+      <workItem from="1725030665150" duration="10843000" />
+      <workItem from="1725445372791" duration="9517000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/calculadoraConsumoEletrico$calculadoraConsumoEletrico.coverage" NAME="calculadoraConsumoEletrico Coverage Results" MODIFIED="1725453203655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

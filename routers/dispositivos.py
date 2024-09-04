@@ -1,8 +1,8 @@
 from fastapi import APIRouter
 from models.dispositivo import DispositivoDB
 from models.unidade_consumidora import UnidadeConsumidoraDB
-from models.dependencia import DependenciaDB
-from schemas.dispositivo import DispositivoCreate, DispositivoRead, DispositivoReadList, DispositivoUpdate
+from models.dependencias import DependenciaDB
+from schemas.dispositivos import DispositivoCreate, DispositivoRead, DispositivoReadList, DispositivoUpdate
 
 router = APIRouter(prefix='/dispositivos', tags=['DISPOSITIVOS'])
 

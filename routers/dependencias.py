@@ -1,6 +1,6 @@
 from fastapi import APIRouter
-from models.dependencia import DependenciaDB, UnidadeConsumidoraDB
-from schemas.dependencia import DependenciaCreate, DependenciaReadList, DependenciaReadOne, DependenciaUpdate
+from models.dependencias import DependenciaDB, UnidadeConsumidoraDB
+from schemas.dependencias import DependenciaCreate, DependenciaReadList, DependenciaReadOne, DependenciaUpdate
 
 router = APIRouter(prefix='/dependencias', tags=['DEPENDÊNCIAS'])
 
