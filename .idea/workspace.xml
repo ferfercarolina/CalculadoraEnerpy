@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f8e6f4b-54da-4e14-ac8f-6ba1ea0448f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/bandeira.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bandeira.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/dispositivo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/tipo_consumidor.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/tipo_consumidor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/tipo_dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/tipo_dispositivo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/unidade_consumidora.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/unidade_consumidora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/bandeira.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/bandeira.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/dependencias.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/dependencias.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/dispositivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/dispositivos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/tipo_consumidor.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/tipo_consumidor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/tipo_dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/tipo_dispositivo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/unidade_consumidora.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/unidade_consumidora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/bandeira.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/bandeira.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/tipo_consumidor.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/tipo_consumidor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/tipo_dispositivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/tipo_dispositivo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/unidade_consumidora.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/unidade_consumidora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_main.http" beforeDir="false" afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
-    </list>
+    <list default="true" id="9f8e6f4b-54da-4e14-ac8f-6ba1ea0448f8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +92,7 @@
       <workItem from="1724857686865" duration="6170000" />
       <workItem from="1724868761059" duration="1699000" />
       <workItem from="1725030665150" duration="10843000" />
-      <workItem from="1725445372791" duration="9517000" />
+      <workItem from="1725445372791" duration="9826000" />
     </task>
     <servers />
   </component>
